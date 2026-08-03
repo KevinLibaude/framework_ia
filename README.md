@@ -235,7 +235,3 @@ Elle fournit :
 - un profil Symfony ;
 - un profil Doctrine ;
 - un modèle de règles projet.
-
-## Licence
-
-La licence du projet doit être définie dans un fichier `LICENSE` avant publication publique.
